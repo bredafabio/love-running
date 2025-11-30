@@ -88,6 +88,7 @@ main {
   /* Make main element take up any surplus space to push footer down */
   /* Faça com que o elemento principal oculpe qualquer espaço excedente para empurrar o rodapé para baixo */
   flex: 1 0 auto;
+  margin-top: 47px; /* Adjust based on header height */
 }
 
 /* Footer */
