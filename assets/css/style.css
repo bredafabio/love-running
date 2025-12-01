@@ -100,7 +100,7 @@ main {
   list-style-type: none;
 }
 
-#social-networks i {
+#social-networks a i {
   color: #3a3a3a;
   font-size: 160%;
   padding: 5%;
